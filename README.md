@@ -2,6 +2,9 @@
 
 Bem-vindo ao projeto!
 
+![imc](https://github.com/user-attachments/assets/1188fe7e-380c-4eb9-bedb-81a8dcd9ce0c)
+
+
 ## Descrição
 
 Este projeto é uma aplicação que calcula o Índice de Massa Corporal (IMC) com base nos dados fornecidos pelo usuário.
@@ -29,7 +32,3 @@ Se você quiser contribuir para este projeto, siga as etapas abaixo:
 3. Faça commit de suas alterações (`git commit -m 'Adicionando nova funcionalidade'`).
 4. Faça push para a branch (`git push origin minha-feature`).
 5. Abra um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
